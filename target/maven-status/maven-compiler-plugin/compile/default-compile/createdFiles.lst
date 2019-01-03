@@ -1,0 +1,5 @@
+com\cts\dao\HibernateDao.class
+com\cts\entity\Subject.class
+com\cts\entity\Book.class
+com\cts\util\JPAUtil.class
+com\cts\main\MainClass.class
